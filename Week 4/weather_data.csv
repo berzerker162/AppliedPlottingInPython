@@ -1,0 +1,25 @@
+City,Month,High,Low,Sun Hours,Precip
+Reno,Jan,46,25,185,1.03
+Reno,Feb,51,29,199,1.02
+Reno,Mar,58,33,267,0.76
+Reno,Apr,64,38,306,0.47
+Reno,May,74,46,354,0.49
+Reno,Jun,83,52,376,0.51
+Reno,Jul,92,58,414,0.18
+Reno,Aug,91,56,391,0.23
+Reno,Sep,82,49,336,0.35
+Reno,Oct,69,39,273,0.51
+Reno,Nov,55,31,212,0.82
+Reno,Dec,46,25,170,1.03
+Miami,Jan,76,60,222,1.62
+Miami,Feb,78,62,227,2.25
+Miami,Mar,80,65,266,3
+Miami,Apr,83,68,275,3.14
+Miami,May,87,73,280,5.34
+Miami,Jun,89,76,251,9.67
+Miami,Jul,91,77,267,6.5
+Miami,Aug,91,77,263,8.88
+Miami,Sep,89,76,216,9.86
+Miami,Oct,86,74,215,6.33
+Miami,Nov,82,68,212,3.27
+Miami,Dec,78,63,209,2.04
